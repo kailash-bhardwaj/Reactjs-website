@@ -1,0 +1,77 @@
+{
+    "title": "One Of The Fastest Growing IT Staffing Agencies In The U.S.",
+    "testimonial_header": "What Our Employees Say About Equitas IT INC?",
+    "employee_testimonials": [
+        {
+            "title": "Deeksha",
+            "description": "I feel very proud to be a part of Equitas IT INC. I’ve started my career in this company and have gained extraordinary knowledge. I’m very grateful to work in such a place where employees are valued & given new opportunities."
+        },
+        {
+            "title": "Vaishnav",
+            "description": "Good company with great work culture. I’m thankful to the management for letting me grow in my profession. Equitas INC is the best choice for long-term career.            "
+        },
+        {
+            "title": "Ravi Varma",
+            "description": "I feel very proud to be a part of Equitas IT INC. I’ve started my career in this company and have gained extraordinary knowledge. I’m very grateful to work in such a place where employees are valued & given new opportunities."
+        },
+        {
+            "title": "Kailash",
+            "description": "Good company with great work culture. I’m thankful to the management for letting me grow in my profession. Equitas INC is the best choice for long-term career.            "
+        }
+    ],
+    "statistics": [
+        {
+            "count": 1290,
+            "title": "EMPLOYEES PLACED"
+        },
+        {
+            "count": 10,
+            "title": "YEARS IN INDUSTRY"
+        },
+        {
+            "count": 245,
+            "title": "HAPPY CLIENTS"
+        },
+        {
+            "count": 1090,
+            "title": "FINISHED PROJECTS"
+        }
+    ],
+    "why_equitas": {
+        "title": "Why choose Equitas IT INC",
+        "description": "We are the one-stop solution for providing quality talent to meet our clients’ IT staffing needs. If you are a job aspirant than you can kick start your IT career with us. Or if you wish to join a passionate team of staffing professionals, we make your dreams come true.",
+        "options": [
+            {
+                "icon": "project-based.png",
+                "title": "Project-Based Staffing"
+            },{
+                "icon": "augmented.png",
+                "title": "Augmented Staffing"
+            },{
+                "icon": "permanent.png",
+                "title": "Permanent Hiring"
+            },{
+                "icon": "dedicated.png",
+                "title": "Dedicated Development Model"
+            }
+        ]
+    },
+    "business_practices": {
+        "title": "Business Practices",
+        "description": "We provide Recruitment and Staffing services to many industries through our innovative & customized solutions. Ability to comprehend the hiring strategies, talent availability and compensation benchmarking are what makes us a proud hiring partner for different industries.",
+        "list1": [
+            "Information Technology Services",
+            "Pharmaceutical and Healthcare",
+            "Automobile",
+            "Private Equity",
+            "Engineering"
+        ],
+        "list2": [
+            "Banking and Financial",
+            "Infrastructure",
+            "Internet/Ecommerce",
+            "Digital",
+            "Research and Consulting"
+        ]
+    }
+}

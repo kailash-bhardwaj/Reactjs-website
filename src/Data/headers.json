@@ -1,0 +1,10 @@
+{
+  "data": [
+    { "title": "Home", "to": "/home" },
+    { "title": "About Us", "to": "/about-us" },
+    { "title": "Jobs", "to": "/jobs" },
+    { "title": "Services", "to": "/services" },
+    { "title": "Blogs", "to": "/blogs" },
+    { "title": "Contact Us", "to": "/contact-us" }
+  ]
+}
